@@ -516,14 +516,14 @@ xprintf/main.rel                          [  ]
 
 Libraries Linked                          [ object file ]
 
-C:\tools\sdcc\bin\..\lib\small/mcs51.lib  [ crtclear.rel ]
+C:\TOOLS\sdcc\bin\..\lib\small/mcs51.lib  [ crtclear.rel ]
 ../xprintf.lib                            [ xprintf.rel ]
-C:\tools\sdcc\bin\..\lib\small/libsdcc.lib
+C:\TOOLS\sdcc\bin\..\lib\small/libsdcc.lib
                                           [ puts.rel ]
-C:\tools\sdcc\bin\..\lib\small/mcs51.lib  [ crtstart.rel ]
-C:\tools\sdcc\bin\..\lib\small/libsdcc.lib
+C:\TOOLS\sdcc\bin\..\lib\small/mcs51.lib  [ crtstart.rel ]
+C:\TOOLS\sdcc\bin\..\lib\small/libsdcc.lib
                                           [ _gptrget.rel ]
-C:\tools\sdcc\bin\..\lib\small/libsdcc.lib
+C:\TOOLS\sdcc\bin\..\lib\small/libsdcc.lib
                                           [ _startup.rel ]
 
 ASxxxx Linker V03.00 + NoICE + sdld,  page 20.
